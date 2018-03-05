@@ -1,0 +1,4 @@
+/dist/**
+/coverage/**
+/templates/**
+/server/migrations/**
