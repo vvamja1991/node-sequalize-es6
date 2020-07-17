@@ -40,7 +40,7 @@
     "http-status": "^0.2.0",
     "joi": "9.2.0",
     "jsonwebtoken": "7.1.9",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "method-override": "^2.3.5",
     "mysql2": "1.5.1",
     "sequelize": "4.31.0",
